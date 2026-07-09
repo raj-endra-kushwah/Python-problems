@@ -1,5 +1,5 @@
 size = int(input("Enter size of list : "))
-ls=[]
+ls = []
 for _ in range(size):
     print("Enter number : ")
     ls.append(int(input()))
